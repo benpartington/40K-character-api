@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k61WhtfQ+ng=",
+  "success": true,
+  "projectFilePath": "/Users/ben/Desktop/Projects/40KCharacterApp/40K-character-api/40K-character-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/ben/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/ben/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

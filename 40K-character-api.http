@@ -1,0 +1,6 @@
+@_40K_character_api_HostAddress = http://localhost:5059
+
+GET {{_40K_character_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
