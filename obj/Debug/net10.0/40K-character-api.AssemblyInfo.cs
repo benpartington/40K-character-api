@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("40K-character-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2a2546fb3da33580359d5e85c077e3ca75ba3df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b48c9360c2b62495eaa1e64e252b5f463d00b77")]
 [assembly: System.Reflection.AssemblyProductAttribute("40K-character-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("40K-character-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
